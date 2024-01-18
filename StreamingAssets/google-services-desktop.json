@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "firebase_url" : "https://infinispace-65f52-default-rtdb.firebaseio.com/",
+    "project_number": "795502953939",
+    "project_id": "infinispace-65f52",
+    "storage_bucket": "infinispace-65f52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795502953939:android:cbf7f10d8b820f2d21db26",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.NFTPlanet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASvxV_cuWr3QMmbdhKBQYDi2UbSJTzlaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
